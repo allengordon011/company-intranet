@@ -1,10 +1,9 @@
-import Container from '@mui/material/Container';
-import EmployeeList from './components/EmployeeList';
+import Intranet from './components/Intranet';
 
 function App() {
-  return (
-    <EmployeeList />
-  );
+	return (
+		<Intranet />
+	);
 }
 
 export default App;

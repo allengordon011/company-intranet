@@ -35,6 +35,7 @@ module.exports = {
 			'always'
 		],
 		'no-unused-vars': 'warn',
-		'react/react-in-jsx-scope': 'off'
+		'react/react-in-jsx-scope': 'off',
+		'no-mixed-spaces-and-tabs': 0
 	}
 };
